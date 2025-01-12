@@ -21,7 +21,7 @@ The project is available in the GitHub repository:
 - Performance optimizations, including lazy loading and image optimization.
 - Accessibility features following WCAG guidelines.
 - Cross-browser compatibility with support for Chrome, Firefox, Safari, and Edge.
-- Clean, maintainable, and well-structured code.
+- Clean, maintainable and well-structured code.
 
 ## Technologies Used
 
